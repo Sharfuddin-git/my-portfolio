@@ -40,10 +40,6 @@ my-portfolio/
 2. Open the project folder.
 3. Open `index.html` in your web browser.
 
-## Live Demo
-
-Add your GitHub Pages website link here after publishing your site.
-
 ## Contact
 
 **Sharfuddin Ahmed**
